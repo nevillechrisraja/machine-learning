@@ -1,2 +1,2 @@
 # machine-learning
-- Supervised learning
+Techniques: Classification, Regression, Clustering
